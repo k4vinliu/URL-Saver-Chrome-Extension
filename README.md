@@ -15,4 +15,4 @@ There are three functionailities on this chrome extension:
 3. Delete: Delete a specific link/title that was saved
 
 ![Screenshot 2024-04-23 184255](https://github.com/kevinnliu/URL-Saver-Chrome-Extension/assets/96346738/326ec181-a283-47c9-8907-39f53c6e8960)
-![Screenshot 2024-04-23 184419](https://github.com/kevinnliu/URL-Saver-Chrome-Extension/assets/96346738/37dde9de-11a4-48fd-ab27-86c4df532273)
+![Screenshot 2024-04-23 184419](https://github.com/kevinnliu/URL-Saver-Chrome-Extension/assets/96346738/24252d89-ac32-4774-b45d-562b6ae79314)
