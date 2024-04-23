@@ -4,10 +4,10 @@ A simple Chrome Extension allowing users to save and delete links with just one 
 Chrome extension I created using JavaScript, HTML/CSS, chrome.tabs api, and more.
 
 Keyboard shortkeys for different operating systems:
-Windows: Ctrl+Shift+Y
-Mac: Command+Shift+Y
-Chromeos: Ctrl+Shift+U
-Linux: Ctrl+Shift+J
+- Windows: Ctrl+Shift+Y
+- Mac: Command+Shift+Y
+- Chromeos: Ctrl+Shift+U
+- Linux: Ctrl+Shift+J
 
 There are three functionailities on this chrome extension:
 1. Save Tab: Saves the URL of the current active tab the user is on while giving it a custom name (title)
